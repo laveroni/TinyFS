@@ -2,9 +2,9 @@
 
 This TinyFS project is a Java implementation of the Google File System.  
 
-To read about the Google File System, visit the following link:  http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
+* Note, this is a conceptual and educational implementation of the Google File System that is not intended (at this time) for actual use. 
 
-* Note, this is a conceptual and education implementation of the Google File System that is not intended (at this time) for actual use.  
+To read about the Google File System, visit the following link:  http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
 
 This implementation consists of the ability to run multiple chunkservers, multiple clients, and a single master that connects the clients with a chunkserver.  
 
